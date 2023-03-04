@@ -85,3 +85,6 @@ print(summary)
 #model2 = attempt_load('yolov7_massivo_scratch_best.pt', map_location=device)  # load FP32 model
 #model_distances = watcher.distances(model, model2)
 #print(model_distances)
+
+
+#cio
