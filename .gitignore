@@ -1,5 +1,5 @@
 
-*.py
+
 *.pyc
 *.png
 *.pt
@@ -8,3 +8,26 @@
 *.sh
 *.yaml
 utils/google_app_engine/Dockerfile
+models/common.py
+models/experimental.py
+models/yolo.py
+utils/__init__.py
+utils/activations.py
+
+utils/autoanchor.py
+utils/aws/__init__.py
+utils/aws/resume.py
+utils/datasets.py
+utils/general.py
+
+utils/google_utils.py
+utils/loss.py
+utils/metrics.py
+utils/plots.py
+utils/roboflow.py
+utils/torch_utils.py
+utils/wandb_logging/__init__.py
+utils/wandb_logging/log_dataset.py
+utils/wandb_logging/wandb_utils.py
+utils/yolov4.py
+utils/yolov5.py
