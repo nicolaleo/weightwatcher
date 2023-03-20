@@ -3,7 +3,7 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-csv_filename='yolov5m_massivo_finetuned.csv'
+#csv_filename='yolov5m_massivo_finetuned.csv'
 
 csv_filenames=['yolov5m_massivo_finetuned.csv','yolov7_massivo_scratch_best.csv','yolov7_massivo_best.csv','yolov7-tiny_massivo_scratch.csv','yolov7-e6e.csv']
 
