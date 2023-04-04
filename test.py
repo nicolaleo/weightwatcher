@@ -1,4 +1,4 @@
-
+#modifiche di test
 import weightwatcher as ww
 import torchvision.models as models
 import numpy as np
